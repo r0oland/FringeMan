@@ -3,14 +3,14 @@
 
 \begin{document}
 
-I think you're talking about the \emph{four step algorithm}. 
+The \emph{four step algorithm}.
 What we want is the phase $\phi$ associated to each point $(x,y)$. If we consider four measurements and a shift of $90^o$, the amplitude for a given point in each measurement is:
 
 \begin{align}
-A_1(x,y)&=A_0\cos[\phi(x,y)] \\
-A_2(x,y)&=A_0\cos[\phi(x,y)+\pi2] \nonumber\\
-A_3(x,y)&=A_0\cos[\phi(x,y)+\pi] \nonumber\\
-A_4(x,y)&=A_0\cos[\phi(x,y)+3\pi/2] \nonumber
+A_1(x,y)&=A_0\cos(\phi(x,y)) \\
+A_2(x,y)&=A_0\cos(\phi(x,y)+\pi\2) \nonumber\\
+A_3(x,y)&=A_0\cos(\phi(x,y)+\pi) \nonumber\\
+A_4(x,y)&=A_0\cos(\phi(x,y)+3\pi/2) \nonumber
 \end{align}
 
 \noindent which can be solved for the phase as:
@@ -19,4 +19,4 @@ A_4(x,y)&=A_0\cos[\phi(x,y)+3\pi/2] \nonumber
 \phi(x,y)=\arctan\left[\frac{A_4-A_2}{A_1-A_3}\right]
 \end{equation}
 
-\end{document}
+\end{document} 
