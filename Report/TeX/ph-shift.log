@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.21)  17 JAN 2013 14:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.21)  15 FEB 2013 17:16
 entering extended mode
 **C:/Users/ccquiel/Dropbox/Personal*Project/Report/TeX/ph-shift.tex
 ("C:/Users/ccquiel/Dropbox/Personal Project/Report/TeX/ph-shift.tex"
@@ -132,27 +132,29 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 7.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
-! Undefined control sequence.
-<argument> ...A_2(x,y)&=A_0\cos (\phi (x,y)+\pi \2
-                                                  ) \nonumber \\ A_3(x,y)&=A...
-l.14 \end{align}
-                
-? 
-! Emergency stop.
-<argument> ...A_2(x,y)&=A_0\cos (\phi (x,y)+\pi \2
-                                                  ) \nonumber \\ A_3(x,y)&=A...
-l.14 \end{align}
-                
-End of file on the terminal!
+) [1
 
- 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("C:\Users\ccquiel\Dropbox\Personal Project\Report\TeX\ph-shift.aux") ) 
 Here is how much of TeX's memory you used:
- 1157 strings out of 494045
- 13197 string characters out of 3145962
- 61560 words of memory out of 3000000
+ 1161 strings out of 494045
+ 13349 string characters out of 3145962
+ 62560 words of memory out of 3000000
  4497 multiletter control sequences out of 15000+200000
  5685 words of font info for 23 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,8n,24p,318b,112s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 27i,8n,24p,318b,116s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on ph-shift.pdf (1 page, 69275 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
